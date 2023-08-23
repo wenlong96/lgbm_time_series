@@ -40,7 +40,7 @@ tree. Advances in Neural Information Processing Systems, 30, 3146–3154
 Front. Neurorobot. 7:21. [doi: 10.3389/fnbot.2013.00021](https://doi.org/10.3389/fnbot.2013.00021)
 
 For this tutorial, we will be using the dataset provided by Kaggle in
-their 2018 competition _[Store Item Demand Forecasting Challenge](https://www.kaggle.com/competitions/demand-forecasting-kernels-only)_
+their 2018 competition _[Store Item Demand Forecasting Challenge](https://www.kaggle.com/competitions/demand-forecasting-kernels-only)_.
 
 
 We will first start with data preprocessing.

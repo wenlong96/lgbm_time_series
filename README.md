@@ -51,7 +51,7 @@ We will first start with data preprocessing.
 library(fpp2)
 library(lubridate)
 library(dplyr)
-df <- read.csv("C://Users//wl//Desktop//Work//[Website]//Demand Forecast//Kaggle Challenge//train.csv")
+df <- read.csv("train.csv")
 
 View(df) # 2013-01-01 to 2017-12-31
 unique(df$store)

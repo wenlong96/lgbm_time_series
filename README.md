@@ -1,5 +1,5 @@
-LightGBM: A Multi-Step Time Series Forecasting Approach with Bayesian
-Optimization
+Time Series Demand Forecasting with Ensemble Methods and Bayesian Optimized
+Hyperparameter Tuning
 ================
 
 In the world of business analytics, being able to predict sales with
